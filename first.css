@@ -1,0 +1,48 @@
+.container{
+    width:200px;
+}
+.title{
+    color:white;
+    font-size:25px;
+    font-style:arial;
+    font-family: cursive;  
+    opacity: 0.6;
+    
+ }
+ .first{
+    margin-left: 70px;
+    margin-top:50px;
+ }
+ .hamburger{
+    width:48px;
+    display:flex;
+    margin-left:1300px;
+    flex-direction: column;
+    cursor: pointer;
+ }
+.hero{
+    text-align: left;
+    font-size: 8rem;
+    line-height: 0.85;
+    margin: 0 0 42px;
+    text-shadow: 0 0 40px rgba(34, 34, 34, .9);
+    color:white;
+    margin-top:300px; 
+    opacity: 0.5;
+    font-family: Gotham A, Gotham B, Arial, Helvetica, Sans-serif; 
+}
+span {
+position: relative;
+opacity: 0;
+font-size:8rem;
+font-family: Gotham A, Gotham B, Arial, Helvetica, Sans-serif;
+color: rgba(214, 43, 43, 0.467);
+display: block;
+font-weight: 800;
+letter-spacing: -.05em;
+margin: -8px 0 0;
+}
+body{
+    min-height: 100vh;
+}
+  
